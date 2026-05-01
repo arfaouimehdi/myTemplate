@@ -56,5 +56,32 @@ Exemples de clients possibles :
 
 Le projet a déjà été créé avec :
 
-```bash
-npx create-next-app@latest starter-client-site
+npx create-next-app@latest starter-client-site  
+Configuration choisie :  
+
+TypeScript : oui  
+ESLint : oui  
+Tailwind CSS : oui  
+App Router : oui  
+dossier src/ : oui  
+AGENTS.md : oui  
+alias @/* : oui
+
+Le projet est situé ici :
+
+C:\Users\mehdi\Desktop\sites-clients\starter-client-site  
+## 4. Commandes principales
+Lancer le site en local  
+npm run dev
+
+Adresse locale :  
+http://localhost:3000  
+
+Vérifier le lint:  
+npm run lint
+
+Vérifier le build de production:  
+npm run build
+  
+Arrêter le serveur local:  
+Ctrl + C
